@@ -1,5 +1,4 @@
 ﻿streamlit
-difflib
 langchain
 langchain-community
 langchain-experimental
