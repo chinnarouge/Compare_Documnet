@@ -80,7 +80,7 @@ st.markdown(f"""
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-st.title("🚀 Advanced RAG System with DeepSeek R1 & Ollama")
+st.title("🚀 Rag based document comparision System with DeepSeek R1 & Ollama")
 
 # Function to load and process PDF
 def load_and_process_pdf(uploaded_file, temp_file_name):
